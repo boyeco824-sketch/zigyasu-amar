@@ -1,0 +1,7 @@
+{
+  "name": "Portfolio",
+  "description": "A premium, minimalist portfolio for a videographer and creative director, featuring bold typography, smooth animations, and a refined aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
